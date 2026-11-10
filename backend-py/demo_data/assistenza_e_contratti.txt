@@ -1,0 +1,22 @@
+ATTENZIONE: DOCUMENTO DI ESEMPIO CON DATI INVENTATI.
+Questo testo serve solo a testare il chatbot. Prodotti, prezzi, contatti e regole
+sono di fantasia e NON sono informazioni reali su Ergon Informatica.
+
+ERGON INFORMATICA - ASSISTENZA E CONTRATTI (DATI DI ESEMPIO)
+
+ASSISTENZA
+- Il supporto è incluso in tutti i canoni mensili.
+- Canali: email (supporto@ergon.example), telefono, assistenza remota.
+- Tempi di risposta (esempio): entro 4 ore lavorative per problemi bloccanti, entro 2 giorni lavorativi per le altre richieste.
+- Fuori orario è disponibile un servizio di reperibilità per i problemi bloccanti, a 90 euro per intervento.
+
+FORMAZIONE
+- All'attivazione è inclusa una giornata di formazione (online o presso il cliente).
+- Giornate di formazione aggiuntive: 500 euro al giorno.
+- Video guida e manuali sono disponibili nell'area clienti.
+
+CONTRATTI
+- Durata minima (esempio): 12 mesi, con rinnovo automatico annuale.
+- Disdetta: con 3 mesi di preavviso rispetto alla scadenza.
+- Prova gratuita (esempio): 30 giorni per Ergon B2B ed Ergon Agenti.
+- I dati del cliente restano sempre di proprietà del cliente e possono essere esportati in qualsiasi momento.

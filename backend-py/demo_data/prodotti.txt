@@ -1,0 +1,29 @@
+ATTENZIONE: DOCUMENTO DI ESEMPIO CON DATI INVENTATI.
+Questo testo serve solo a testare il chatbot. Prodotti, prezzi, contatti e regole
+sono di fantasia e NON sono informazioni reali su Ergon Informatica.
+
+ERGON INFORMATICA - PRODOTTI (DATI DI ESEMPIO)
+
+1. ERGON GESTIONALE
+   Gestionale completo per distributori: anagrafiche, listini, ordini clienti e fornitori, fatturazione elettronica, contabilità.
+   Disponibile in cloud o installato sui server del cliente.
+   Prezzo (esempio): da 150 euro al mese per 5 utenti.
+
+2. ERGON MAGAZZINO
+   Gestione del magazzino con lettori barcode e terminali palmari: ricevimento merce, ubicazioni, inventari, preparazione ordini (picking).
+   Si integra con Ergon Gestionale.
+   Prezzo (esempio): 60 euro al mese per ogni terminale.
+
+3. ERGON B2B
+   Portale e-commerce per i clienti professionali del distributore: catalogo con prezzi personalizzati, disponibilità in tempo reale, storico ordini.
+   Prezzo (esempio): 250 euro al mese, attivazione 1.500 euro una tantum.
+
+4. ERGON AGENTI
+   App per tablet e smartphone per gli agenti di commercio: raccolta ordini anche offline, schede cliente, statistiche di vendita.
+   Prezzo (esempio): 25 euro al mese per agente.
+
+5. ERGON ASSISTENTE (in sviluppo)
+   Assistente virtuale basato su intelligenza artificiale che risponde alle domande dei clienti usando i documenti dell'azienda.
+   Uscita prevista (esempio): 2027.
+
+Tutti i prodotti includono aggiornamenti gratuiti e backup giornaliero (per la versione cloud).

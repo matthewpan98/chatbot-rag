@@ -1,0 +1,44 @@
+# Avvia tutto il progetto con un solo comando:
+#   docker compose up --build
+# Poi apri http://localhost:3000
+
+services:
+  rag_server:
+    build: ./backend-py
+    command: python RAG_server.py
+    ports:
+      - "5001:5001"
+    environment:
+      - PYTHONUNBUFFERED=1
+      - OLLAMA_BASE_URL=${OLLAMA_BASE_URL:-http://host.docker.internal:11434}
+    env_file:
+      - .env
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    volumes:
+      - ./backend-py/database:/app/database
+    restart: unless-stopped
+
+  llm_server:
+    build: ./backend-py
+    command: python LLM_server.py
+    ports:
+      - "5002:5002"
+    environment:
+      - PYTHONUNBUFFERED=1
+      - OLLAMA_BASE_URL=${OLLAMA_BASE_URL:-http://host.docker.internal:11434}
+    env_file:
+      - .env
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    depends_on:
+      - rag_server
+    restart: unless-stopped
+
+  frontend:
+    build: ./frontend-react
+    ports:
+      - "3000:80"
+    depends_on:
+      - llm_server
+    restart: unless-stopped

@@ -1,0 +1,23 @@
+ATTENZIONE: DOCUMENTO DI ESEMPIO CON DATI INVENTATI.
+Questo testo serve solo a testare il chatbot. Prodotti, prezzi, contatti e regole
+sono di fantasia e NON sono informazioni reali su Ergon Informatica.
+
+ERGON INFORMATICA - DOMANDE FREQUENTI (DATI DI ESEMPIO)
+
+D: Posso usare Ergon Gestionale da casa?
+R: Sì, la versione cloud è accessibile da qualsiasi browser. La versione installata richiede una VPN aziendale.
+
+D: Ergon Gestionale gestisce la fatturazione elettronica?
+R: Sì, invia e riceve le fatture tramite il Sistema di Interscambio (SdI) e le conserva a norma per 10 anni.
+
+D: Ergon Agenti funziona senza internet?
+R: Sì, gli ordini vengono salvati sul dispositivo e inviati in automatico appena torna la connessione.
+
+D: Posso importare i dati dal mio vecchio gestionale?
+R: Sì, il servizio di migrazione dati (esempio: da 800 euro) include anagrafiche, articoli, listini e documenti degli ultimi 5 anni.
+
+D: Quanti utenti posso aggiungere?
+R: Non c'è un limite. Ogni pacchetto da 5 utenti aggiuntivi costa (esempio) 80 euro al mese.
+
+D: Dove sono salvati i dati della versione cloud?
+R: In data center in Italia, con backup giornaliero conservato per 30 giorni.

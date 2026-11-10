@@ -1,0 +1,4 @@
+.env
+.DS_Store
+backend-py/database/vector_store/
+__pycache__/

@@ -1,0 +1,18 @@
+ATTENZIONE: DOCUMENTO DI ESEMPIO CON DATI INVENTATI.
+Questo testo serve solo a testare il chatbot. Prodotti, prezzi, contatti e regole
+sono di fantasia e NON sono informazioni reali su Ergon Informatica.
+
+ERGON INFORMATICA - CHI SIAMO (DATI DI ESEMPIO)
+
+Ergon Informatica è una software house che sviluppa gestionali e soluzioni digitali per aziende della distribuzione all'ingrosso.
+
+Fondazione (esempio): 1990.
+Persone (esempio): circa 60 tra sviluppatori, consulenti e personale di assistenza.
+Clienti (esempio): oltre 400 aziende in Italia, soprattutto distributori di materiale idraulico, elettrico e alimentare.
+
+Missione (esempio): aiutare i distributori a gestire ordini, magazzino e vendite con strumenti semplici e integrati tra loro.
+
+Contatti (esempio, indirizzi non reali):
+- Email commerciale: commerciale@ergon.example
+- Email assistenza: supporto@ergon.example
+- Orari assistenza: lunedì-venerdì, 8:30-12:30 e 14:00-18:00
